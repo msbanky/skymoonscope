@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-313-add-support-for-profiling-multiple-contract",
+    "fix/issue-430-add-event-emission-for-every-successful-cross",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-313-add-support-for-profiling-multiple-contract": "main",
+    "fix/issue-430-add-event-emission-for-every-successful-cross": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-313-add-support-for-profiling-multiple-contract",
+    "fix/issue-430-add-event-emission-for-every-successful-cross",
+    "origin"
+  ]
+}
